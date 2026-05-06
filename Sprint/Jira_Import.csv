@@ -1,0 +1,12 @@
+Summary,Description,Issue Type
+Configure API keys,Set up Groq/Gemini/HF keys,Task
+Create AWS services,Create S3/DynamoDB/SNS,Task
+Create repo structure,Set up portfolio repo,Task
+Detect README changes,Implement workflow,Story
+Approval workflow,GitHub Issue approval,Story
+Summariser,Implement LLM summariser,Story
+Knowledge base updater,Update JSON + S3,Story
+Embedding generator,Generate embeddings,Story
+RAG resume generator,Generate resume,Story
+Logging,Implement logs,Task
+End-to-end testing,Full system test,Story
